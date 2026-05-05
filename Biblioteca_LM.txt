@@ -1,0 +1,356 @@
+ENCICLOPEDIA DE GEOGRAFÍA MUNDIAL
+Datos Geográficos, Históricos y Curiosidades del Planeta
+Este documento contiene información geográfica extensiva sobre el planeta Tierra: continentes, países, capitales, océanos, ríos, montañas, datos históricos, récords naturales, curiosidades geográficas y estadísticas globales. Ha sido compilado como corpus de conocimiento geográfico de alta densidad.
+Versión: 2025 | Idioma: Español | Propósito: Entrenamiento y dominio de modelos de lenguaje (LLM)
+
+1. EL PLANETA TIERRA: DATOS FUNDAMENTALES
+La Tierra es el tercer planeta del Sistema Solar y el único conocido con vida. Tiene una edad estimada de 4.543 mil millones de años. Su superficie total es de aproximadamente 510,072,000 km², de los cuales el 70.8% (361 millones de km²) está cubierto por agua y el 29.2% (149 millones de km²) es tierra firme.
+
+1.1 Dimensiones y estructura
+El radio ecuatorial de la Tierra es de 6,378 km. El radio polar de la Tierra es de 6,357 km. La circunferencia ecuatorial de la Tierra es de 40,075 km. La circunferencia polar de la Tierra es de 40,008 km. La Tierra no es una esfera perfecta sino un esferoide oblato, ligeramente achatado en los polos y abultado en el ecuador.
+El interior terrestre se divide en: corteza (0-35 km de profundidad), manto (35-2,900 km), núcleo externo líquido (2,900-5,100 km) y núcleo interno sólido (5,100-6,371 km). El núcleo está compuesto principalmente de hierro y níquel.
+
+1.2 Atmósfera
+La atmósfera terrestre está compuesta por: Nitrógeno (N2) en un 78.09%, Oxígeno (O2) en un 20.95%, Argón (Ar) en un 0.93%, Dióxido de carbono (CO2) en un 0.04%, y otros gases traza. La atmósfera terrestre se divide en cinco capas: troposfera (0-12 km), estratosfera (12-50 km), mesosfera (50-80 km), termosfera (80-700 km) y exosfera (700 km en adelante).
+
+1.3 Movimientos de la Tierra
+Rotación: La Tierra gira sobre su propio eje en 23 horas, 56 minutos y 4 segundos (día sidéreo). El día solar dura exactamente 24 horas. La inclinación del eje terrestre es de 23.5° respecto al plano orbital, lo que provoca las estaciones del año.
+Traslación: La Tierra orbita alrededor del Sol en 365 días, 5 horas, 48 minutos y 46 segundos (año trópico). La distancia media de la Tierra al Sol es de 149,597,870 km (1 Unidad Astronómica). El punto más cercano al Sol se llama perihelio (enero) y el más lejano afelio (julio).
+
+2. LOS CONTINENTES DEL MUNDO
+Existen diferentes modelos de división continental. El modelo de siete continentes (más extendido internacionalmente) divide la tierra firme en: África, América del Norte, América del Sur, Antártida, Asia, Europa y Oceanía. España y Latinoamérica generalmente usan el modelo de seis continentes agrupando América como uno solo, o el modelo que separa Eurasia.
+
+Datos de los continentes:
+- Asia tiene un área de 44,579,000 km², una población aproximada de 4,700 millones, 49 países, y su ciudad más poblada es Tokio, Japón.
+- África tiene un área de 30,370,000 km², una población aproximada de 1,400 millones, 54 países, y su ciudad más poblada es Lagos, Nigeria.
+- América del Norte tiene un área de 24,709,000 km², una población aproximada de 600 millones, 23 países, y su ciudad más poblada es Ciudad de México.
+- América del Sur tiene un área de 17,840,000 km², una población aproximada de 435 millones, 12 países, y su ciudad más poblada es São Paulo, Brasil.
+- Antártida tiene un área de 14,200,000 km², una población permanente de 0 habitantes, 0 países, y su mayor asentamiento estacional es la Base McMurdo.
+- Europa tiene un área de 10,530,000 km², una población aproximada de 750 millones, entre 44 y 51 países, y su ciudad más poblada es Moscú, Rusia.
+- Oceanía tiene un área de 8,526,000 km², una población aproximada de 43 millones, 14 países, y su ciudad más poblada es Sídney, Australia.
+
+2.1 Asia
+Asia es el continente más grande y más poblado del mundo. Ocupa el 30% de la superficie terrestre y alberga al 60% de la población humana. Está delimitada al oeste por los Montes Urales y el Cáucaso, al sur por el Océano Índico, al este por el Océano Pacífico y al norte por el Océano Ártico.
+Subregiones de Asia: Asia Oriental incluye China, Japón, Corea del Norte, Corea del Sur, Mongolia, Taiwán. Asia Meridional incluye India, Pakistán, Bangladesh, Nepal, Sri Lanka, Bután, Maldivas. Asia Sudoriental incluye Tailandia, Vietnam, Indonesia, Filipinas, Malasia, Singapur, Myanmar, Camboya, Laos, Brunéi, Timor-Leste. Asia Central incluye Kazajistán, Uzbekistán, Turkmenistán, Kirguistán, Tayikistán, Afganistán. Asia Occidental o Medio Oriente incluye Arabia Saudita, Turquía, Irán, Irak, Israel, Jordania, Emiratos Árabes Unidos, Kuwait, Qatar, Baréin, Omán, Yemen, Siria, Líbano, Armenia, Azerbaiyán, Georgia, Chipre.
+Las montañas más altas del mundo están en Asia: El Monte Everest con 8,849 m en Nepal-China; el K2 con 8,611 m en Pakistán-China; el Kangchenjunga con 8,586 m en Nepal-India; el Lhotse con 8,516 m en Nepal-China; el Makalu con 8,485 m en Nepal-China. Los 14 picos de más de 8,000 metros del mundo se encuentran en Asia, todos en la cordillera del Himalaya y el Karakórum.
+Los ríos más largos de Asia son: El Yangtsé con 6,300 km, el Río Amarillo o Huang He con 5,464 km, el Mekong con 4,909 km, el Lena con 4,400 km, el Obi-Irtish con 5,410 km, el Indo con 3,180 km, el Ganges con 2,525 km, el Tigris con 1,900 km, y el Éufrates con 2,800 km.
+Curiosidades asiáticas: El lago Baikal (Siberia, Rusia) es el lago de agua dulce más profundo del mundo con 1,642 m y contiene el 20% del agua dulce superficial no congelada del planeta. El Mar Muerto (Israel-Jordania), con 430 metros bajo el nivel del mar, es el punto terrestre más bajo de la Tierra. China tiene la mayor población del mundo con 1,412 millones, aunque India la superó en 2023. Japón tiene la mayor esperanza de vida promedio del mundo con 84 años aproximadamente.
+
+2.2 África
+África es el segundo continente más grande y más poblado. Es el continente con mayor diversidad lingüística: se estima que existen entre 1,500 y 3,000 idiomas distintos. Es considerado la cuna de la humanidad: el Homo sapiens surgió en África hace aproximadamente 300,000 años.
+Subregiones de África: África del Norte incluye Egipto, Argelia, Libia, Marruecos, Túnez, Sudán, Mauritania. África Occidental incluye Nigeria, Ghana, Senegal, Costa de Marfil, Mali, Burkina Faso, Guinea, Sierra Leona, Liberia, Togo, Benín, Níger, Gambia, Guinea-Bissau, Cabo Verde. África Oriental incluye Etiopía, Tanzania, Kenia, Uganda, Rwanda, Burundi, Mozambique, Madagascar, Somalia, Eritrea, Yibuti, Seychelles, Comoras, Mauricio. África Central incluye República Democrática del Congo, República del Congo, Camerún, República Centroafricana, Chad, Gabón, Guinea Ecuatorial, Santo Tomé y Príncipe. África Austral incluye Sudáfrica, Zimbabwe, Zambia, Namibia, Botswana, Angola, Lesoto, Suazilandia, Malaui.
+El desierto del Sahara es el desierto caliente más grande del mundo con aproximadamente 9.2 millones de km², similar al tamaño de Estados Unidos. Si se cuentan los desiertos fríos, la Antártida es el mayor desierto del mundo.
+El Río Nilo con 6,650 km es el río más largo del mundo, aunque existe debate científico sobre si el Amazonas podría ser más largo. El Nilo fluye de sur a norte, desde Uganda y Etiopía hasta el Mediterráneo en Egipto.
+El Monte Kilimanjaro con 5,895 m en Tanzania es la montaña más alta de África. Es un volcán inactivo y el punto más alto del continente. El lago Victoria, compartido entre Uganda, Kenia y Tanzania, es el lago más grande de África y el segundo lago de agua dulce más grande del mundo.
+Nigeria es el país más poblado de África con más de 220 millones de habitantes y tiene la economía más grande del continente. Argelia es el país más extenso de África con 2,381,741 km². Las Seychelles, con apenas 459 km², es el país más pequeño de África.
+
+2.3 América del Norte
+América del Norte incluye Canadá, Estados Unidos, México, América Central y el Caribe. Es el tercer continente más grande del mundo. Limita al norte con el Océano Ártico, al este con el Océano Atlántico, al sur con América del Sur y al oeste con el Océano Pacífico.
+Canadá es el segundo país más grande del mundo por superficie con 9,984,670 km² pero tiene una densidad de población muy baja de 4 hab/km². Estados Unidos es el tercer o cuarto país más grande con 9,372,610 km² y tiene la economía más grande del mundo por PIB nominal.
+Las Montañas Rocosas se extienden desde Alaska hasta Nuevo México en América del Norte. El pico más alto de América del Norte es el Denali (antes llamado Monte McKinley) en Alaska, con 6,190 m. Los Grandes Lagos (Superior, Michigan, Hurón, Erie y Ontario) forman el sistema de agua dulce superficial más grande del mundo por área con 244,106 km².
+El río Misisipi-Misuri con 6,275 km es el más largo de América del Norte. El Gran Cañón del Colorado, en Arizona (EE.UU.), tiene 446 km de longitud, hasta 29 km de anchura y 1,857 m de profundidad. El Valle de la Muerte en California es el punto terrestre más caliente registrado con 56.7°C en 1913.
+El Caribe comprende más de 7,000 islas. Cuba es la isla más grande con 109,884 km². Haití y la República Dominicana comparten la isla La Española. Puerto Rico es un Estado Libre Asociado de EE.UU. Jamaica es famosa por su música reggae y es uno de los mayores exportadores de bauxita.
+
+2.4 América del Sur
+América del Sur es el cuarto continente más grande. Está casi en su totalidad en el hemisferio occidental y mayoritariamente en el hemisferio sur. Brasil, con 8,515,767 km², es el quinto país más grande del mundo y el mayor de América Latina.
+La Cordillera de los Andes es la cadena montañosa más larga del mundo con 7,000 km, extendiéndose a lo largo de siete países: Venezuela, Colombia, Ecuador, Perú, Bolivia, Chile y Argentina. El Monte Aconcagua con 6,961 m en Argentina es el pico más alto fuera de Asia.
+El Amazonas es el río más caudaloso del mundo, con un caudal de aproximadamente 209,000 m³/s. La cuenca amazónica cubre más de 7 millones de km² y el bosque amazónico produce el 20% del oxígeno terrestre y alberga el 10% de todas las especies del planeta.
+El lago Titicaca, a 3,812 m de altitud en la frontera entre Perú y Bolivia, es el lago navegable más alto del mundo. El Salar de Uyuni en Bolivia con 10,582 km² es el mayor desierto de sal del mundo y contiene las mayores reservas de litio del planeta.
+Las Cataratas del Iguazú entre Argentina y Brasil son el sistema de cataratas más ancho del mundo con 2.7 km. El Salto Ángel en Venezuela, con 979 m, es la cascada más alta del mundo. La Patagonia, compartida entre Argentina y Chile, es una de las regiones más remotas y ventosas del mundo.
+Países de América del Sur y sus capitales: La capital de Argentina es Buenos Aires. La capital de Bolivia es Sucre/La Paz. La capital de Brasil es Brasilia. La capital de Chile es Santiago. La capital de Colombia es Bogotá. La capital de Ecuador es Quito. La capital de Guyana es Georgetown. La capital de Paraguay es Asunción. La capital de Perú es Lima. La capital de Surinam es Paramaribo. La capital de Uruguay es Montevideo. La capital de Venezuela es Caracas. Además, la capital de Guayana Francesa (territorio de Francia) es Cayena.
+
+2.5 Europa
+Europa es el segundo continente más pequeño en superficie pero el tercero más poblado. Sus límites son: el Océano Ártico al norte, el Océano Atlántico al oeste, el Mar Mediterráneo y el Cáucaso al sur, y los Montes Urales al este. Comparte la masa continental con Asia formando Eurasia.
+La Unión Europea (UE) es una unión política y económica de 27 Estados miembros. El euro (€) es la moneda oficial de 20 países de la UE (zona euro). El Parlamento Europeo tiene sede en Estrasburgo (Francia) y la Comisión Europea en Bruselas (Bélgica). El Tribunal de Justicia de la UE está en Luxemburgo.
+Los Alpes son la cadena montañosa más importante de Europa central, con el Mont Blanc (4,808 m, Francia-Italia) como su pico más alto. Los Pirineos (3,404 m en el pico Aneto) separan la Península Ibérica de Francia. Los Cárpatos se extienden por Europa del Este. El Monte Elbrus con 5,642 m en Rusia es el punto más alto de Europa.
+El río Volga con 3,531 km es el más largo de Europa y fluye por Rusia hasta el Mar Caspio. El Danubio con 2,860 km atraviesa 10 países europeos. El Rin con 1,230 km es fundamental para la economía de Europa occidental.
+
+2.6 Oceanía
+Oceanía es el continente más pequeño y el de menor población. Incluye Australia, Nueva Zelanda, Papúa Nueva Guinea, Fiji, Samoa, Tonga, Vanuatu, las Islas Salomón, Kiribati, Micronesia, Palau, las Islas Marshall, Nauru y Tuvalu, entre otros.
+Australia, con 7,692,024 km², es a la vez el país más grande de Oceanía, el sexto más grande del mundo y el único país-continente. La capital de Australia es Canberra, aunque Sídney es su ciudad más grande. El Uluru (Ayers Rock) en Australia es el monolito de arenisca más grande del mundo con 348 m de altura y 9.4 km de circunferencia.
+La Gran Barrera de Coral en Australia es el ecosistema de coral más grande del mundo, con más de 2,300 km de longitud y visible desde el espacio. Alberga más de 1,500 especies de peces y 4,000 tipos de moluscos.
+Nueva Zelanda tiene una fauna única: el 80% de su flora es endémica. El kiwi es el ave nacional de Nueva Zelanda y no puede volar. El tuatara es el único reptil viviente del orden Rhynchocephalia en Nueva Zelanda. El Monte Cook (Aoraki) con 3,724 m es el pico más alto de Nueva Zelanda.
+
+2.7 Antártida
+La Antártida es el quinto continente más grande y el más frío, seco y ventoso del planeta. Está cubierto por una capa de hielo que promedia 1.9 km de espesor y almacena el 70% del agua dulce del planeta. Si todo el hielo antártico se derritiera, el nivel del mar subiría aproximadamente 58 metros.
+La temperatura más baja jamás registrada en la Tierra fue de -89.2°C en la Estación Vostok en la Antártida el 21 de julio de 1983. La Antártida no tiene gobierno propio y está regulada por el Tratado Antártico (1959), firmado actualmente por 54 países.
+El Monte Vinson con 4,892 m es el pico más alto de la Antártida. Bajo la capa de hielo antártica existe el Lago Vostok, un lago subglacial de 250 km de longitud. La Antártida alberga aproximadamente 5 millones de pingüinos emperador.
+
+3. OCÉANOS, MARES Y AGUAS DEL MUNDO
+3.1 Los cinco océanos
+- El Océano Pacífico tiene un área de 165,250,000 km² y una profundidad máxima de 11,034 m en la Fosa de las Marianas. Es el océano más grande y profundo del mundo.
+- El Océano Atlántico tiene un área de 106,460,000 km² y una profundidad máxima de 8,376 m en la Fosa de Puerto Rico. Separa Europa y África de América.
+- El Océano Índico tiene un área de 70,560,000 km² y una profundidad máxima de 7,258 m en la Fosa de Java. Es el océano más cálido en superficie.
+- El Océano Antártico o Sur tiene un área de 21,960,000 km² y una profundidad máxima de 7,235 m en la Fosa Sandwitch del Sur. Rodea la Antártida.
+- El Océano Ártico tiene un área de 14,056,000 km² y una profundidad máxima de 5,625 m en la Cuenca Framm. Es el océano más pequeño y frío; cubre el Polo Norte.
+
+La Fosa de las Marianas, ubicada en el Océano Pacífico occidental, es el punto más profundo conocido de la Tierra con el Challenger Deep a 11,034 metros bajo la superficie. Fue explorado por primera vez en 1960 por Jacques Piccard y Don Walsh.
+
+3.2 Mares principales del mundo
+El Mar Mediterráneo tiene 2,500,000 km². Conecta Europa, África y Asia. Sus principales mares internos son el Mar Adriático, Mar Egeo, Mar de Alborán, Mar Jónico y Mar Tirreno.
+El Mar Caspio tiene 371,000 km². Es el lago endorreico más grande del mundo. Bordea Rusia, Kazajistán, Turkmenistán, Azerbaiyán e Irán.
+El Mar Rojo tiene 438,000 km². Une el Mediterráneo con el Océano Índico vía el Canal de Suez. Bordea Arabia Saudita, Yemen, Eritrea, Etiopía, Djibouti, Sudán y Egipto.
+El Mar del Norte tiene 570,000 km². Está bañado por Reino Unido, Noruega, Dinamarca, Alemania, Países Bajos, Bélgica y Francia.
+El Mar Báltico tiene 377,000 km² y es el mar interior más grande de Europa.
+El Mar de China Meridional tiene 3,500,000 km². Es una de las rutas marítimas más transitadas del mundo y fuente de numerosas disputas territoriales.
+
+4. PAÍSES DEL MUNDO: CAPITALES, DATOS Y CURIOSIDADES
+En el mundo existen 195 países reconocidos por la ONU (193 Estados miembros y 2 observadores permanentes: Ciudad del Vaticano y Palestina).
+
+4.1 Países por superficie: Los 20 más grandes
+1. Rusia tiene una superficie de 17,098,242 km², se ubica en Europa/Asia y su capital es Moscú.
+2. Canadá tiene una superficie de 9,984,670 km², se ubica en América del Norte y su capital es Ottawa.
+3. Estados Unidos tiene una superficie de 9,372,610 km², se ubica en América del Norte y su capital es Washington D.C.
+4. China tiene una superficie de 9,596,960 km², se ubica en Asia y su capital es Pekín (Beijing).
+5. Brasil tiene una superficie de 8,515,767 km², se ubica en América del Sur y su capital es Brasilia.
+6. Australia tiene una superficie de 7,692,024 km², se ubica en Oceanía y su capital es Canberra.
+7. India tiene una superficie de 3,287,263 km², se ubica en Asia y su capital es Nueva Delhi.
+8. Argentina tiene una superficie de 2,780,400 km², se ubica en América del Sur y su capital es Buenos Aires.
+9. Kazajistán tiene una superficie de 2,724,900 km², se ubica en Asia y su capital es Astana.
+10. Argelia tiene una superficie de 2,381,741 km², se ubica en África y su capital es Argel.
+11. República Democrática del Congo tiene una superficie de 2,344,858 km², se ubica en África y su capital es Kinshasa.
+12. Arabia Saudita tiene una superficie de 2,149,690 km², se ubica en Asia y su capital es Riad.
+13. México tiene una superficie de 1,964,375 km², se ubica en América del Norte y su capital es Ciudad de México.
+14. Indonesia tiene una superficie de 1,904,569 km², se ubica en Asia y su capital es Yakarta (Nusantara).
+15. Sudán tiene una superficie de 1,861,484 km², se ubica en África y su capital es Jartum.
+16. Libia tiene una superficie de 1,759,540 km², se ubica en África y su capital es Trípoli.
+17. Irán tiene una superficie de 1,648,195 km², se ubica en Asia y su capital es Teherán.
+18. Mongolia tiene una superficie de 1,564,116 km², se ubica en Asia y su capital es Ulan Bator.
+19. Perú tiene una superficie de 1,285,216 km², se ubica en América del Sur y su capital es Lima.
+20. Chad tiene una superficie de 1,284,000 km², se ubica en África y su capital es N'Djamena.
+
+4.2 Países más pequeños del mundo
+1. Ciudad del Vaticano tiene una superficie de 0.44 km², se ubica en Europa y su capital es Ciudad del Vaticano.
+2. Mónaco tiene una superficie de 2.02 km², se ubica en Europa y su capital es Mónaco.
+3. San Marino tiene una superficie de 61 km², se ubica en Europa y su capital es San Marino.
+4. Liechtenstein tiene una superficie de 160 km², se ubica en Europa y su capital es Vaduz.
+5. Islas Marshall tiene una superficie de 181 km², se ubica en Oceanía y su capital es Majuro.
+6. San Cristóbal y Nieves tiene una superficie de 261 km², se ubica en América y su capital es Basseterre.
+7. Maldivas tiene una superficie de 298 km², se ubica en Asia y su capital es Malé.
+8. Malta tiene una superficie de 316 km², se ubica en Europa y su capital es La Valeta.
+9. Granada tiene una superficie de 344 km², se ubica en América y su capital es Saint George's.
+10. San Vicente y las Granadinas tiene una superficie de 389 km², se ubica en América y su capital es Kingstown.
+
+4.3 Países más poblados (2024)
+1. India tiene una población de 1,441 millones, su capital es Nueva Delhi y su densidad es de 464 hab/km².
+2. China tiene una población de 1,412 millones, su capital es Pekín y su densidad es de 150 hab/km².
+3. Estados Unidos tiene una población de 336 millones, su capital es Washington D.C. y su densidad es de 36 hab/km².
+4. Indonesia tiene una población de 278 millones, su capital es Yakarta y su densidad es de 146 hab/km².
+5. Pakistán tiene una población de 246 millones, su capital es Islamabad y su densidad es de 307 hab/km².
+6. Brasil tiene una población de 215 millones, su capital es Brasilia y su densidad es de 25 hab/km².
+7. Nigeria tiene una población de 222 millones, su capital es Abuja y su densidad es de 240 hab/km².
+8. Bangladesh tiene una población de 172 millones, su capital es Daca y su densidad es de 1,265 hab/km².
+9. Rusia tiene una población de 144 millones, su capital es Moscú y su densidad es de 8.4 hab/km².
+10. Etiopía tiene una población de 128 millones, su capital es Adis Abeba y su densidad es de 115 hab/km².
+
+4.4 Capitales del mundo por continente
+Capitales de África: La capital de Argelia es Argel. La capital de Angola es Luanda. La capital de Benín es Porto-Novo. La capital de Botsuana es Gaborone. La capital de Burkina Faso es Uagadugú. La capital de Burundi es Gitega. La capital de Cabo Verde es Praia. La capital de Camerún es Yaundé. La capital de la República Centroafricana es Bangui. La capital de Chad es N'Djamena. La capital de Comoras es Moroni. La capital de la República Democrática del Congo es Kinshasa. La capital de la República del Congo es Brazzaville. La capital oficial de Costa de Marfil es Yamusukro y la gubernamental es Abiyán. La capital de Yibuti es Yibuti. La capital de Egipto es El Cairo. La capital de Guinea Ecuatorial es Malabo. La capital de Eritrea es Asmara. La capital de Etiopía es Adis Abeba. La capital de Gabón es Libreville. La capital de Gambia es Banjul. La capital de Ghana es Acra. La capital de Guinea es Conakri. La capital de Guinea-Bissau es Bisáu. La capital de Kenia es Nairobi. La capital de Lesoto es Maseru. La capital de Liberia es Monrovia. La capital de Libia es Trípoli. La capital de Madagascar es Antananarivo. La capital de Malaui es Lilongüe. La capital de Mali es Bamako. La capital de Mauritania es Nuakchot. La capital de Mauricio es Port Louis. La capital de Marruecos es Rabat. La capital de Mozambique es Maputo. La capital de Namibia es Windhoek. La capital de Níger es Niamey. La capital de Nigeria es Abuja. La capital de Rwanda es Kigali. La capital de Santo Tomé y Príncipe es Santo Tomé. La capital de Senegal es Dakar. La capital de Seychelles es Victoria. La capital de Sierra Leona es Freetown. La capital de Somalia es Mogadiscio. Las capitales de Sudáfrica son Pretoria (ejecutiva), Ciudad del Cabo (legislativa) y Bloemfontein (judicial). La capital de Sudán del Sur es Yuba. La capital de Sudán es Jartum. La capital de Suazilandia es Mbabane. La capital de Tanzania es Dodoma. La capital de Togo es Lomé. La capital de Túnez es Túnez. La capital de Uganda es Kampala. La capital de Zambia es Lusaka. La capital de Zimbabue es Harare.
+
+Capitales de Asia: La capital de Afganistán es Kabul. La capital de Armenia es Ereván. La capital de Azerbaiyán es Bakú. La capital de Bangladés es Daca. La capital de Bután es Timbu. La capital de Brunéi es Bandar Seri Begawan. La capital de Camboya es Nom Pen. La capital de China es Pekín. La capital de Chipre es Nicosia. La capital de Corea del Norte es Pyongyang. La capital de Corea del Sur es Seúl. La capital de los Emiratos Árabes Unidos es Abu Dabi. La capital de Filipinas es Manila. La capital de Georgia es Tiflis. La capital de India es Nueva Delhi. La capital de Indonesia es Yakarta (en traslado a Nusantara). La capital de Irak es Bagdad. La capital de Irán es Teherán. La capital de Israel es Jerusalén (reconocida parcialmente). La capital de Japón es Tokio. La capital de Jordania es Ammán. La capital de Kazajistán es Astana. La capital de Kirguistán es Biskek. La capital de Kuwait es Ciudad de Kuwait. La capital de Laos es Vientián. La capital de Líbano es Beirut. La capital de Malasia es Kuala Lumpur. La capital de Maldivas es Malé. La capital de Mongolia es Ulan Bator. La capital de Myanmar es Naipyidó. La capital de Nepal es Katmandú. La capital de Omán es Mascate. La capital de Pakistán es Islamabad. La capital de Palestina es Ramala/Gaza (disputada). La capital de Qatar es Doha. La capital de Arabia Saudita es Riad. La capital de Singapur es Singapur. La capital oficial de Sri Lanka es Sri Jayawardenapura Kotte y la comercial es Colombo. La capital de Siria es Damasco. La capital de Tayikistán es Dusambé. La capital de Tailandia es Bangkok. La capital de Timor Oriental es Dili. La capital de Turkmenistán es Asjabad. La capital de Turquía es Ankara. La capital de Uzbekistán es Taskent. La capital de Vietnam es Hanói. La capital de Yemen es Saná.
+
+Capitales de Europa: La capital de Albania es Tirana. La capital de Andorra es Andorra la Vella. La capital de Austria es Viena. La capital de Bielorrusia es Minsk. La capital de Bélgica es Bruselas. La capital de Bosnia y Herzegovina es Sarajevo. La capital de Bulgaria es Sofía. La capital de Croacia es Zagreb. La capital de Chipre es Nicosia. La capital de la República Checa es Praga. La capital de Dinamarca es Copenhague. La capital de Estonia es Tallin. La capital de Finlandia es Helsinki. La capital de Francia es París. La capital de Alemania es Berlín. La capital de Grecia es Atenas. La capital de Hungría es Budapest. La capital de Islandia es Reikiavik. La capital de Irlanda es Dublín. La capital de Italia es Roma. La capital de Kosovo es Pristina. La capital de Letonia es Riga. La capital de Liechtenstein es Vaduz. La capital de Lituania es Vilna. La capital de Luxemburgo es Luxemburgo. La capital de Macedonia del Norte es Skopie. La capital de Malta es La Valeta. La capital de Moldavia es Chisinau. La capital de Mónaco es Mónaco. La capital de Montenegro es Podgorica. La capital oficial de los Países Bajos es Ámsterdam y la sede de gobierno es La Haya. La capital de Noruega es Oslo. La capital de Polonia es Varsovia. La capital de Portugal es Lisboa. La capital de Rumania es Bucarest. La capital de Rusia es Moscú. La capital de San Marino es San Marino. La capital de Serbia es Belgrado. La capital de Eslovaquia es Bratislava. La capital de Eslovenia es Liubliana. La capital de España es Madrid. La capital de Suecia es Estocolmo. La capital de Suiza es Berna. La capital de Ucrania es Kiev. La capital del Reino Unido es Londres. La capital de la Ciudad del Vaticano es la Ciudad del Vaticano.
+
+Capitales de América: La capital de Antigua y Barbuda es Saint John's. La capital de Argentina es Buenos Aires. La capital de Bahamas es Nasau. La capital de Barbados es Bridgetown. La capital de Belice es Belmopán. La capital constitucional de Bolivia es Sucre y la gubernamental es La Paz. La capital de Brasil es Brasilia. La capital de Canadá es Ottawa. La capital de Chile es Santiago. La capital de Colombia es Bogotá. La capital de Costa Rica es San José. La capital de Cuba es La Habana. La capital de Dominica es Roseau. La capital de la República Dominicana es Santo Domingo. La capital de Ecuador es Quito. La capital de El Salvador es San Salvador. La capital de Granada es Saint George's. La capital de Guatemala es Ciudad de Guatemala. La capital de Guyana es Georgetown. La capital de Haití es Puerto Príncipe. La capital de Honduras es Tegucigalpa. La capital de Jamaica es Kingston. La capital de México es Ciudad de México. La capital de Nicaragua es Managua. La capital de Panamá es Ciudad de Panamá. La capital de Paraguay es Asunción. La capital de Perú es Lima. La capital de San Cristóbal y Nieves es Basseterre. La capital de Santa Lucía es Castries. La capital de San Vicente y las Granadinas es Kingstown. La capital de Surinam es Paramaribo. La capital de Trinidad y Tobago es Puerto España. La capital de Estados Unidos es Washington D.C. La capital de Uruguay es Montevideo. La capital de Venezuela es Caracas.
+
+Capitales de Oceanía: La capital de Australia es Canberra. La capital de Fiyi es Suva. La capital de Kiribati es Tarawa del Sur. La capital de las Islas Marshall es Majuro. La capital de Micronesia es Palikir. Nauru no tiene capital oficial, pero su gobierno opera en Yaren. La capital de Nueva Zelanda es Wellington. La capital de Palaos es Ngerulmud. La capital de Papúa Nueva Guinea es Port Moresby. La capital de Samoa es Apia. La capital de las Islas Salomón es Honiara. La capital de Tonga es Nukualofa. La capital de Tuvalu es Funafuti. La capital de Vanuatu es Port Vila.
+
+5. GEOGRAFÍA FÍSICA: MONTAÑAS, RÍOS, DESIERTOS Y LAGOS
+5.1 Montañas más altas por continente
+- En Asia, la montaña más alta es el Monte Everest con 8,849 m, ubicado en Nepal - China.
+- En América del Sur, la montaña más alta es el Aconcagua con 6,961 m, ubicado en Argentina.
+- En América del Norte, la montaña más alta es el Denali con 6,190 m, ubicado en Estados Unidos (Alaska).
+- En África, la montaña más alta es el Kilimanjaro con 5,895 m, ubicado en Tanzania.
+- En Europa, la montaña más alta es el Elbrus con 5,642 m, ubicado en Rusia.
+- En la Antártida, la montaña más alta es el Monte Vinson con 4,892 m, ubicado en la Antártida.
+- En Oceanía, la montaña más alta es el Puncak Jaya con 4,884 m, ubicado en Indonesia (Papúa).
+El Everest fue escalado por primera vez el 29 de mayo de 1953 por Edmund Hillary y Tenzing Norgay. Su altura oficial fue actualizada en 2020 a 8,849 metros.
+
+5.2 Ríos más largos del mundo
+- El río Nilo tiene 6,650 km, está en África, recorre países como Uganda, Sudán, Etiopía y Egipto, y desemboca en el Mar Mediterráneo.
+- El río Amazonas tiene 6,400 km, está en América del Sur, recorre Perú, Colombia y Brasil, y desemboca en el Océano Atlántico.
+- El río Yangtsé tiene 6,300 km, está en Asia, recorre China, y desemboca en el Mar de China Oriental.
+- El río Misisipi-Misuri tiene 6,275 km, está en América del Norte, recorre Estados Unidos, y desemboca en el Golfo de México.
+- El río Yenisei-Angara tiene 5,539 km, está en Asia, recorre Rusia (Siberia), y desemboca en el Océano Ártico.
+- El Río Amarillo (Huang He) tiene 5,464 km, está en Asia, recorre China y desemboca en el Mar de Bohai.
+- El río Obi-Irtish tiene 5,410 km, está en Asia, recorre Rusia y Kazajistán, y desemboca en el Océano Ártico.
+- El río Paraná tiene 4,880 km, está en América del Sur, recorre Brasil, Argentina y Paraguay, y desemboca en el Río de la Plata.
+- El río Congo tiene 4,700 km, está en África, recorre RDC y Rep. del Congo, y desemboca en el Océano Atlántico.
+- El río Mekong tiene 4,350 km, está en Asia, recorre China, Myanmar, Laos, Tailandia, Camboya y Vietnam, y desemboca en el Mar de China Meridional.
+- El río Níger tiene 4,200 km, está en África, recorre Guinea, Malí, Níger y Nigeria, y desemboca en el Golfo de Guinea.
+- El río Volga tiene 3,531 km, está en Europa, recorre Rusia, y desemboca en el Mar Caspio.
+
+5.3 Lagos más grandes del mundo
+- El Mar Caspio tiene un área de 371,000 km² y una profundidad de 1,025 m; está en Asia/Europa y bordea Rusia, Kazajistán, Azerbaiyán, Irán y Turkmenistán.
+- El lago Superior tiene un área de 82,103 km² y una profundidad de 406 m; está en América del Norte entre Canadá y EE.UU.
+- El lago Victoria tiene un área de 68,870 km² y una profundidad de 84 m; está en África entre Uganda, Kenia y Tanzania.
+- El lago Hurón tiene un área de 59,600 km² y una profundidad de 229 m; está en América del Norte entre Canadá y EE.UU.
+- El lago Michigan tiene un área de 57,800 km² y una profundidad de 281 m; está en América del Norte en EE.UU.
+- El lago Tanganica tiene un área de 32,900 km² y una profundidad de 1,470 m; está en África entre Burundi, RDC, Tanzania y Zambia.
+- El lago Baikal tiene un área de 31,500 km² y una profundidad de 1,642 m; está en Asia, en Rusia.
+- El Gran Lago del Oso tiene un área de 31,153 km² y una profundidad de 446 m; está en América del Norte, en Canadá.
+- El lago Malawi/Niasa tiene un área de 29,600 km² y una profundidad de 706 m; está en África entre Malawi, Tanzania y Mozambique.
+- El lago Titicaca tiene un área de 8,372 km² y una profundidad de 281 m; está en América del Sur entre Perú y Bolivia.
+
+5.4 Desiertos del mundo
+- El desierto de la Antártida tiene un área de 14,200,000 km², es de tipo Frío/Polar y se ubica en la Antártida.
+- El desierto del Ártico tiene un área de 13,900,000 km², es de tipo Frío/Polar y se ubica en el Ártico.
+- El desierto del Sahara tiene un área de 9,200,000 km², es de tipo Caliente/Subtropical y se ubica en el Norte de África.
+- El Desierto Arábigo tiene un área de 2,330,000 km², es de tipo Caliente/Subtropical y se ubica en la Península Arábiga.
+- El Desierto de Gobi tiene un área de 1,295,000 km², es de tipo Frío/Continental y se ubica en China y Mongolia.
+- El Desierto de Patagonia tiene un área de 673,000 km², es de tipo Frío/Templado y se ubica en Argentina.
+- El Gran Desierto de Victoria tiene un área de 647,000 km², es de tipo Caliente y se ubica en Australia.
+- El Gran Desierto de Arena tiene un área de 400,000 km², es de tipo Caliente y se ubica en Australia.
+- El Desierto de Kalahari tiene un área de 360,000 km², es de tipo Semi-árido y se ubica en Botsuana, Namibia, Sudáfrica.
+- El Desierto de Siria tiene un área de 260,000 km², es de tipo Caliente y se ubica en Siria, Irak, Jordania, Arabia Saudita.
+- El Desierto de Atacama tiene un área de 105,000 km², es de tipo Frío/Costero y se ubica en Chile y Perú. Es el desierto no polar más árido del mundo.
+- El Desierto de Mojave tiene un área de 65,000 km², es de tipo Caliente y se ubica en EE.UU. (California, Nevada).
+- El Desierto de Sonora tiene un área de 310,000 km², es de tipo Caliente y se ubica en EE.UU. y México.
+- El Desierto del Namib tiene un área de 81,000 km², es de tipo Frío/Costero y se ubica en Namibia.
+
+6. HISTORIA GEOGRÁFICA: EXPLORACIÓN Y DESCUBRIMIENTOS
+6.1 Grandes exploraciones y descubrimientos geográficos
+Cristóbal Colón (1492): Llegó a América el 12 de octubre de 1492, tocando tierra en la isla Guanahani (Bahamas), a la que llamó San Salvador. Realizó cuatro viajes a América entre 1492 y 1504.
+Vasco de Gama (1498): Navegante portugués que encontró la ruta marítima hacia India bordeando África, llegando a Calicut en 1498.
+Fernando de Magallanes y Juan Sebastián Elcano (1519-1522): Primera circunnavegación del globo. Magallanes murió en Filipinas en 1521, y Elcano completó el viaje en 1522.
+Amerigo Vespucci (1499-1502): Demostró que las tierras descubiertas por Colón eran un nuevo continente. El nombre 'América' proviene de Americus Vespucius.
+James Cook (1768-1779): Explorador británico que cartografió Australia, Nueva Zelanda y Hawái. Fue el primero en cruzar el Círculo Polar Antártico en 1773.
+Roald Amundsen (1911): Explorador noruego que lideró la primera expedición en llegar al Polo Sur el 14 de diciembre de 1911.
+
+6.2 Líneas imaginarias y coordenadas geográficas
+El Ecuador (0° latitud) divide la Tierra en hemisferio norte y sur. Atraviesa Ecuador, Colombia, Brasil, Gabón, Congo, RDC, Uganda, Kenia, Somalia, Maldivas, Indonesia y Kiribati.
+El Meridiano de Greenwich (0° longitud) pasa por el Observatorio Real de Greenwich y divide la Tierra en hemisferio oriental y occidental.
+El Trópico de Cáncer (23°26' N) pasa por México, el Sahara, Egipto, Arabia Saudita, India, China, entre otros.
+El Trópico de Capricornio (23°26' S) pasa por Chile, Argentina, Brasil, Namibia, Botswana, Mozambique, Madagascar y Australia.
+
+6.3 Placas tectónicas y sismicidad
+Las 7 placas tectónicas mayores son: Africana, Antártica, Euroasiática, Indo-Australiana, Norteamericana, Pacífica y Sudamericana.
+El Anillo de Fuego del Pacífico concentra el 75% de los volcanes activos y el 90% de los terremotos del mundo. Los terremotos más potentes registrados fueron: Chile 1960 (M 9.5), Alaska 1964 (M 9.2), Sumatra 2004 (M 9.1) y Japón 2011 (M 9.0).
+
+7. CURIOSIDADES Y RÉCORDS GEOGRÁFICOS DEL MUNDO
+7.1 Récords de temperatura
+La temperatura más alta validada fue de 54.4°C en el Valle de la Muerte (EE.UU.) en 2020. La temperatura más baja fue de -89.2°C en la Estación Vostok (Antártida) en 1983.
+El lugar más húmedo del mundo es Mawsynram (India) con 11,872 mm de precipitación anual. El lugar más seco (no polar) es el Desierto de Atacama en Chile y Perú.
+
+7.2 Curiosidades por países
+Rusia tiene 11 husos horarios y comparte la frontera terrestre más larga del mundo con China (4,209 km).
+Canadá tiene la costa más larga del mundo con 202,080 km.
+Indonesia es el archipiélago más grande del mundo con más de 17,000 islas y más de 130 volcanes activos.
+Ciudad del Vaticano es el Estado más pequeño en área (0.44 km²) y población (800 personas).
+Bolivia tiene dos capitales: Sucre (constitucional) y La Paz (sede de gobierno).
+Sudáfrica tiene tres capitales: Pretoria (ejecutiva), Ciudad del Cabo (legislativa) y Bloemfontein (judicial).
+
+7.3 Puntos extremos del planeta
+- El punto más alto de la Tierra es el Everest (Nepal-China) con 8,849 m s.n.m.
+- El punto más bajo terrestre es el Mar Muerto (Israel-Jordania) con -430 m bajo el nivel del mar.
+- El punto más profundo del océano es el Challenger Deep en la Fosa de las Marianas con 11,034 m de profundidad.
+- El lugar más frío habitado es Oymyakon (Rusia) con -71.2°C.
+- La mayor catarata por altura es el Salto Ángel (Venezuela) con 979 m.
+- La mayor isla es Groenlandia (Dinamarca) con 2,130,800 km².
+- La ciudad capital más alta es La Paz (Bolivia) a 3,640 m s.n.m.
+
+8. GEOGRAFÍA HUMANA: IDIOMAS, RELIGIONES Y ECONOMÍA
+8.1 Idiomas del mundo
+- El Mandarín (chino) tiene 920 millones de hablantes nativos y se habla principalmente en China, Taiwán, Singapur.
+- El Español tiene 475 millones de hablantes nativos y se habla principalmente en América Latina y España.
+- El Inglés tiene 373 millones de hablantes nativos, 1,500 millones en total, y es la lengua franca global.
+- El Hindi tiene 344 millones de hablantes nativos y se habla en India.
+- El Árabe tiene 315 millones de hablantes nativos en Medio Oriente y Norte de África.
+Papúa Nueva Guinea es el país más diverso lingüísticamente con unos 840 idiomas.
+
+8.2 Religiones del mundo
+- El Cristianismo tiene aproximadamente 2,400 millones de seguidores (31% mundial).
+- El Islam tiene aproximadamente 1,900 millones de seguidores (25% mundial).
+- El Hinduismo tiene aproximadamente 1,200 millones de seguidores (15% mundial).
+- El Budismo tiene aproximadamente 535 millones de seguidores (7% mundial).
+- Las personas sin religión o ateos suman alrededor de 1,200 millones (16% mundial).
+
+8.3 Economías más grandes del mundo (PIB nominal, 2024)
+1. Estados Unidos tiene un PIB de 27.9 billones USD.
+2. China tiene un PIB de 17.7 billones USD.
+3. Alemania tiene un PIB de 4.5 billones USD.
+4. Japón tiene un PIB de 4.2 billones USD.
+5. India tiene un PIB de 3.7 billones USD.
+6. Reino Unido tiene un PIB de 3.1 billones USD.
+7. Francia tiene un PIB de 3.0 billones USD.
+8. Italia tiene un PIB de 2.3 billones USD.
+9. Brasil tiene un PIB de 2.1 billones USD.
+10. Canadá tiene un PIB de 2.1 billones USD.
+
+9. DATOS ESPECÍFICOS: LATINOAMÉRICA Y PAÍSES HISPANOHABLANTES
+México es el decimocuarto país más grande del mundo y el hispanohablante más poblado (130 millones). Su punto más alto es el Pico de Orizaba (5,636 m).
+España ocupa la mayor parte de la Península Ibérica. Sus comunidades autónomas incluyen Andalucía (Sevilla), Cataluña (Barcelona), Madrid (Madrid), entre otras. El río Ebro es el más largo que discurre íntegramente por España.
+Argentina es el segundo país más grande de América del Sur. El Aconcagua (6,961 m) en Mendoza es el pico más alto del hemisferio occidental y sur.
+Chile tiene 4,270 km de longitud pero apenas 177 km de ancho promedio. El Ojos del Salado (6,893 m) es el volcán más alto del mundo.
+Colombia es el único país de América del Sur con costas en el Océano Pacífico y en el Mar Caribe.
+Venezuela alberga el Salto Ángel (979 m), la cascada más alta del mundo, y el lago Maracaibo.
+Perú fue el centro del Imperio Inca y alberga Machu Picchu a 2,430 m de altitud.
+Ecuador es el país más biodiverso por km² del mundo e incluye las Islas Galápagos.
+Bolivia no tiene salida al mar. El Salar de Uyuni es el mayor desierto de sal del mundo con 10,582 km².
+
+10. ISLAS, ARCHIPIÉLAGOS Y TERRITORIOS ESPECIALES
+10.1 Islas más grandes del mundo
+1. Groenlandia tiene 2,130,800 km² y es territorio autónomo de Dinamarca.
+2. Nueva Guinea tiene 785,753 km² y está dividida entre Indonesia y Papúa Nueva Guinea.
+3. Borneo tiene 748,168 km² y está dividida entre Indonesia, Malasia y Brunéi.
+4. Madagascar tiene 587,041 km² y pertenece al país de Madagascar.
+5. Baffin tiene 507,451 km² y pertenece a Canadá.
+6. Sumatra tiene 470,000 km² y pertenece a Indonesia.
+7. Gran Bretaña tiene 218,476 km² y pertenece al Reino Unido.
+8. Honshu tiene 225,800 km² y pertenece a Japón.
+
+10.2 Territorios de ultramar y territorios dependientes
+Francia posee la Guayana Francesa (América del Sur), Martinica, Guadalupe, Reunión, Nueva Caledonia, entre otros.
+El Reino Unido posee Gibraltar, Islas Malvinas, Bermudas e Islas Caimán.
+Estados Unidos posee Puerto Rico, Guam, Samoa Americana, entre otros.
+
+11. CLIMAS, BIOMAS Y ZONAS ECOLÓGICAS DEL MUNDO
+11.1 Clasificación climática de Köppen
+Grupo A (Climas tropicales): Temperaturas superiores a 18°C todo el año.
+Grupo B (Climas áridos): Incluyen el desértico caluroso (Sahara) y frío (Gobi).
+Grupo C (Climas templados): Inviernos entre -3°C y 18°C.
+Grupo D (Climas continentales): Inviernos muy fríos y veranos cálidos.
+Grupo E (Climas polares): Sin verdadero verano, temperaturas del mes más cálido inferiores a 10°C.
+
+11.2 Biomas del mundo
+Selva tropical lluviosa: Mayor biodiversidad del planeta (Amazonas, Congo).
+Sabana: Pradera tropical con árboles dispersos y estación seca marcada (Serengeti).
+Taiga: Bosque boreal de coníferas a través de Rusia, Canadá y Escandinavia. Ocupa el 29% de los bosques mundiales.
+Tundra: Suelo congelado (permafrost) sin árboles por encima del Círculo Polar Ártico.
+
+12. ORGANIZACIONES INTERNACIONALES Y BLOQUES GEOPOLÍTICOS
+12.1 Naciones Unidas (ONU)
+La ONU fue fundada el 24 de octubre de 1945 con 51 países fundadores. Actualmente tiene 193 Estados miembros. Su sede principal está en Nueva York.
+
+12.2 Principales bloques regionales
+Unión Europea (UE): 27 países europeos.
+ASEAN: Asociación de Naciones del Sudeste Asiático con 10 miembros.
+Mercosur: Argentina, Brasil, Paraguay, Uruguay y Venezuela (suspendida).
+OPEP: Controla el 40% de la producción de petróleo. Miembros incluyen Arabia Saudita, Irak, Venezuela.
+BRICS: Brasil, Rusia, India, China, Sudáfrica. En 2024 se sumaron Etiopía, Egipto, Irán, Arabia Saudita y Emiratos Árabes Unidos.
+
+13. DATOS ADICIONALES, FRONTERAS Y CURIOSIDADES FINALES
+13.1 Fronteras notables
+La frontera entre Canadá y Estados Unidos es la más larga del mundo con 8,891 km.
+La frontera entre Rusia y Kazajistán tiene 7,644 km y es la segunda más larga.
+
+13.2 Cambios recientes
+Sudán del Sur se independizó en 2011, convirtiéndose en el país más nuevo del mundo.
+Kosovo declaró su independencia de Serbia en 2008.
+
+13.3 Zonas horarias
+El mundo está dividido en 24 zonas horarias estándar. China usa un único huso horario (UTC+8). Rusia tiene 11 zonas horarias. Las Islas Kiribati son las primeras en entrar en el año nuevo.
+
+13.4 Datos demográficos globales
+La población mundial superó los 8,000 millones en noviembre de 2022. La esperanza de vida global promedio es de 73 años.
+
+13.5 Patrimonio de la Humanidad UNESCO
+Existen más de 1,199 sitios en 168 países. Los países con más sitios son Italia (58), China (57), Francia (52), Alemania (52) y España (50).
+
+14. GLOSARIO DE TÉRMINOS GEOGRÁFICOS
+Altiplano: Meseta o planicie elevada.
+Archipiélago: Conjunto de islas agrupadas en una zona marina.
+Delta: Depósito sedimentario en la desembocadura de un río.
+Fiordo: Valle glaciar inundado por el mar.
+Permafrost: Suelo permanentemente congelado.
+Salar: Extensión llana cubierta de sal.
+Tundra: Ecosistema subártico sin árboles, con permafrost, musgos y líquenes.
